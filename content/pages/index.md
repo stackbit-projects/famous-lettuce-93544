@@ -11,7 +11,7 @@ sections:
 
       Sculpté, écrasé, modelé afin de crée.
     actions:
-      - title: See all items
+      - title: Click
         url: /store
         arrow: true
         style: primary
