@@ -85,5 +85,5 @@ seo:
     - name: 'twitter:image'
       value: images/header.jpg
       relativeUrl: true
-title: Poter
+title: Potery
 ---
