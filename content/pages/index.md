@@ -86,4 +86,5 @@ seo:
       value: images/header.jpg
       relativeUrl: true
 title: Potery
+page_css_class: Diy
 ---
