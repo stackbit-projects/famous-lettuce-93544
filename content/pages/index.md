@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Home
 white_header: true
 sections:
   - type: hero_section
