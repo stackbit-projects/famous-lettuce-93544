@@ -7,7 +7,7 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 65
     content: |
-      # Potterie en céramique 
+      Plantes et Poterie en céramique
 
       Sculpté, écrasé, modelé afin de crée.
     actions:
