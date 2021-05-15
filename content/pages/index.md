@@ -40,7 +40,7 @@ sections:
         text: 'J''ai testé la plante mediosa, bonne ambiance, cool.'
       - author:
           name: Major Payne
-          location: 'VA, USA'
+          location: normandie
         text: >-
           Well I'll be d*mned. These plants really ARE greener than any of my
           recruits.
