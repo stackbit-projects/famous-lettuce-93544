@@ -37,10 +37,7 @@ sections:
       - author:
           name: John Dope
           location: 'Colorado, USA'
-        text: >-
-          I didn't know the Snipcart guys were into herbs as well! How beautiful
-          is that Planty theme. I'm going to launch a killer JAMstack e-commerce
-          store using this for sure.
+        text: 'J''ai testé la plante mediosa, bonne ambiance, cool.'
       - author:
           name: Major Payne
           location: 'VA, USA'
