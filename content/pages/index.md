@@ -36,7 +36,7 @@ sections:
     testimonials:
       - author:
           name: John Dope
-          location: 'Colorado, USA'
+          location: 'elbeuf, normandie'
         text: 'J''ai testé la plante mediosa, bonne ambiance, cool.'
       - author:
           name: Major Payne
