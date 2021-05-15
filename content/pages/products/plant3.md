@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant3-lg.jpg
       relativeUrl: true
-title: Le mini pa
+title: 'Le mini palmier '
 ---
 
 # Curabitur eu tempor
