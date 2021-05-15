@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Good Vibes
 layout: category
 order: 1
 seo:
