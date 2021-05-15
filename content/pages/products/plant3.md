@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant3-lg.jpg
       relativeUrl: true
-title: 'Le mini palmier '
+title: Le mini palmier du désert
 ---
 
 # Curabitur eu tempor
