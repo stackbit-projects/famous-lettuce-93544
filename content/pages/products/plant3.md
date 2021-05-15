@@ -34,7 +34,7 @@ seo:
       value: images/plant3-lg.jpg
       relativeUrl: true
 title: Le mini palmier du désert
-description: 'Du '
+description: Du M
 ---
 
 # Curabitur eu tempor
